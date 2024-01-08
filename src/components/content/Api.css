@@ -1,0 +1,31 @@
+.form-group {
+    margin-bottom: 20px;
+  }
+  
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .login-btn {
+    background-color: #e79a4c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 250px;
+    height: 50px;
+    
+  }
+  button:hover{
+    background-color: green;
+  }
+  
